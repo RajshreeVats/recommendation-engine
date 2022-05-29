@@ -3,9 +3,9 @@
 
 * **Movie Recommender Systems:** This part is focused around building two kinds of recommendation engines; namely the Simple Generic Recommender and the Collaborative Based Filter.
 
-Check out the live demo:[LIVE](https://github.com/RajshreeVats/movie-book-recommender)
+##Check out the live demo:[LIVE](https://recommend-books-movies.herokuapp.com/)
 
-## Approach 
+### Approach 
 
 The problem was divided into several steps:
 
