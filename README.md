@@ -12,11 +12,11 @@
 operations done on the metadata of movies provided in dataset.
 * **Collaborative Filtering:** Implemented this using user_id, book-title and user-ratings; to recommend books to users with similar tastes.
  
-## project Flow
-<p align ="left">
+## Project Flow
+
   ![ architechture for Movie recommendation engine ]("https://drive.google.com/file/d/1_xNFNqtSkP3HbzyYQuvxfticO65nyR7i/view?usp=sharing")
- <p align ="right">
-   ![ architechture for Book recommendation engine ]("https://drive.google.com/file/d/1ljr6AMGO8GWbpfnZNK2W1NPtZyRWeJ8O/view?usp=sharing")
+  ![ architechture for Book recommendation engine ]("https://drive.google.com/file/d/1ljr6AMGO8GWbpfnZNK2W1NPtZyRWeJ8O/view?usp=sharing")
+  <code><img src="https://drive.google.com/file/d/1ljr6AMGO8GWbpfnZNK2W1NPtZyRWeJ8O/view?usp=sharing" width="10%" /></code>
 
 ### Approach 
 
