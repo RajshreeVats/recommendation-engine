@@ -14,9 +14,8 @@ operations done on the metadata of movies provided in dataset.
  
 ## Project Flow
 
-  ![ architechture for Movie recommendation engine ]("https://drive.google.com/file/d/1_xNFNqtSkP3HbzyYQuvxfticO65nyR7i/view?usp=sharing")
-  ![ architechture for Book recommendation engine ]("https://drive.google.com/file/d/1ljr6AMGO8GWbpfnZNK2W1NPtZyRWeJ8O/view?usp=sharing")
-  <code><img src="https://drive.google.com/file/d/1ljr6AMGO8GWbpfnZNK2W1NPtZyRWeJ8O/view?usp=sharing" width="10%" /></code>
+  ![ architechture for Movie recommendation engine ]("https://github.com/RajshreeVats/recommendation-engine/blob/master/templates/My%20First%20Board%20(2).jpg")
+  ![ architechture for Book recommendation engine ]("https://github.com/RajshreeVats/recommendation-engine/blob/master/templates/My%20First%20Board%20.jpg")
 
 ### Approach 
 
