@@ -15,7 +15,7 @@ operations done on the metadata of movies provided in dataset.
 ## Project Flow
 
 <img src="https://github.com/RajshreeVats/recommendation-engine/blob/master/templates/My%20First%20Board%20(2).jpg">
-<img src="https://github.com/RajshreeVats/recommendation-engine/blob/master/templates/My%20First%20Board%20.jpg">
+<img src="https://github.com/RajshreeVats/recommendation-engine/blob/master/templates/My%20First%20Board.jpg">
 
 ### Approach 
 
