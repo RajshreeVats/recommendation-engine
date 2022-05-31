@@ -1,9 +1,22 @@
-# MS-Engage Content-Based-Movie-Recommender-System
+# MS-Engage Recommender-System-Project
+
 * **Movies Recommender System:** This part is focused around building two kinds of recommendation engines; namely the Simple Generic Recommender and the Content Based Filter.
 
 * **Books Recommender System:** This part is focused around building two kinds of recommendation engines; namely the Simple Generic Recommender and the Collaborative Based Filter.
 
 ## Check out the live demo:[LIVE](https://recommend-books-movies.herokuapp.com/)
+
+##  Concept learnings
+* **Simple Recommender:** This system used overall TMDB Vote Count and Vote Averages to build Top Movies Charts, in general and for a specific genre. A simple popularity formula was used to calculate ratings on which the sorting was finally performed.
+* **Content Based Recommender:** I built a content based engine; calculating cosine similarity.
+operations done on the metadata of movies provided in dataset.
+* **Collaborative Filtering:** Implemented this using user_id, book-title and user-ratings; to recommend books to users with similar tastes.
+ 
+## project Flow
+<p align ="left">
+  ![ architechture for Movie recommendation engine ]("https://drive.google.com/file/d/1_xNFNqtSkP3HbzyYQuvxfticO65nyR7i/view?usp=sharing")
+ <p align ="right">
+   ![ architechture for Book recommendation engine ]("https://drive.google.com/file/d/1ljr6AMGO8GWbpfnZNK2W1NPtZyRWeJ8O/view?usp=sharing")
 
 ### Approach 
 
@@ -29,18 +42,15 @@ The problem was divided into several steps:
 <p align ="center">
   <code><img src="http://api.buttercms.com/static/images/tech_banners/Flask.716baf905d79.png" width="10%" /></code>
   <code><img src="https://www.digitaldesignjournal.com/wp-content/uploads/2018/07/Python-Programming-Wallpaper_1.jpg" width="10%" /></code>
+  <code><img src="https://i1.wp.com/softwareengineeringdaily.com/wp-content/uploads/2018/07/jupyter-logo.png" width="10%"/></code>
+ <code><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="10%"/></code>
+ <code><img src="https://en.wikipedia.org/wiki/Pandas_(software)#/media/File:Pandas_logo.svg" width = "10%"/></code>
+ 
+### Deployed using :
+ 
+  <code><img src="https://iconape.com/wp-content/files/us/67356/png/heroku-1.png" width="10%"/></code>
   <code><img src="https://img.icons8.com/color/64/000000/git.png" width="10%"/></code>
   <code><img src="https://img.icons8.com/color/64/000000/github.png" width="10%"/></code>
-
-
-
-##  Concept learnings
-* **Simple Recommender:** This system used overall TMDB Vote Count and Vote Averages to build Top Movies Charts, in general and for a specific genre. A simple popularity formula was used to calculate ratings on which the sorting was finally performed.
-* **Content Based Recommender:** I built a content based engine; calculating cosine similarity.
-operations done on the metadata of movies provided in dataset.
-* **Collaborative Filtering:** Implemented this using user_id, book-title and user-ratings; to recommend books to users with similar tastes.
-
-
 
 
 
