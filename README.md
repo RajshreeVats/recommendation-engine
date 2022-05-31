@@ -1,7 +1,7 @@
 # MS-Engage Content-Based-Movie-Recommender-System
-* **Movie Recommender Systems:** This part is focused around building two kinds of recommendation engines; namely the Simple Generic Recommender and the Content Based Filter.
+* **Movies Recommender System:** This part is focused around building two kinds of recommendation engines; namely the Simple Generic Recommender and the Content Based Filter.
 
-* **Movie Recommender Systems:** This part is focused around building two kinds of recommendation engines; namely the Simple Generic Recommender and the Collaborative Based Filter.
+* **Books Recommender System:** This part is focused around building two kinds of recommendation engines; namely the Simple Generic Recommender and the Collaborative Based Filter.
 
 ## Check out the live demo:[LIVE](https://recommend-books-movies.herokuapp.com/)
 
@@ -27,10 +27,10 @@ The problem was divided into several steps:
 
 # Tech Stack
 <p align ="center">
-  <code><img src="http://api.buttercms.com/static/images/tech_banners/Flask.716baf905d79.png" width="5%" /></code>
-  <code><img src="https://www.digitaldesignjournal.com/wp-content/uploads/2018/07/Python-Programming-Wallpaper_1.jpg" width="5%" /></code>
-  <code><img src="https://img.icons8.com/color/64/000000/git.png" width="5%"/></code>
-  <code><img src="https://img.icons8.com/color/64/000000/github.png" width="5%"/></code>
+  <code><img src="http://api.buttercms.com/static/images/tech_banners/Flask.716baf905d79.png" width="10%" /></code>
+  <code><img src="https://www.digitaldesignjournal.com/wp-content/uploads/2018/07/Python-Programming-Wallpaper_1.jpg" width="10%" /></code>
+  <code><img src="https://img.icons8.com/color/64/000000/git.png" width="10%"/></code>
+  <code><img src="https://img.icons8.com/color/64/000000/github.png" width="10%"/></code>
 
 
 
