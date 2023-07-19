@@ -4,7 +4,7 @@
 
 * **Books Recommender System:** This part is focused around building two kinds of recommendation engines; namely the Simple Generic Recommender and the Collaborative Based Filter.
 
-## Check out the live demo:[LIVE](https://recommend-books-movies.herokuapp.com/)
+## Check out the live demo:[LIVE](https://recommend-books-movies.herokuapp.com/](https://www.youtube.com/watch?v=GQ8e2AZywC8)
 
 ##  Concept learnings
 * **Simple Recommender:** This system used overall TMDB Vote Count and Vote Averages to build Top Movies Charts, in general and for a specific genre. A simple popularity formula was used to calculate ratings on which the sorting was finally performed.
